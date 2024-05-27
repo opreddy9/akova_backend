@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://op_reddy:om1729reddy@cluster0.la9ggbc.mongodb.net/akova?retryWrites=true&w=majority",
+    "jwtSecret":"myjwtsecretithinkthisisusedtoencodesecretslikepasswordsbasedonthis"
+}
